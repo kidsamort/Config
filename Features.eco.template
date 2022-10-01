@@ -1,0 +1,6 @@
+{
+  "RentEnabled": true,
+  "VoiceChatEnabled": true,
+  "FoodVarietyMultiplierEnabled": true,
+  "FoodTastinessMultiplierEnabled": true
+}

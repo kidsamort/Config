@@ -1,0 +1,7 @@
+{
+  "MaxActivePlayers": 0,
+  "ShelfLifeMultiplier": 1.0,
+  "ExhaustionAfterHours": 0.0,
+  "RolloverDailyPlaytime": true,
+  "MaximumPlaytimeBeforeExhausted": 15.0
+}
